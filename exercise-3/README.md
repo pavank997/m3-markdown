@@ -1,4 +1,4 @@
-# Exercise-2
+# Exercise-3
 
 As described in [module-4](https://github.com/INFO-201/m4-git-intro), you should begin by forking this repository, then cloning it to your local machine (if you haven't already).
 
@@ -7,5 +7,10 @@ In the space below, you'll provide some information about a terminal command you
 A `heading` with the name of the command
 An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
+
+# mkdir 
+When in terminal, move to the desired directory, then type `mkdir newdirectoryname`
+..*Creates a new directory with the desired name
+
 
 See `complete` branch for answers.
