@@ -11,7 +11,8 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 # mkdir 
 When in terminal, move to the desired directory, then type `mkdir newdirectoryname`
 
-..* Creates a new directory with the desired name
+Here is some more information:
+- Creates a new directory with the desired name
 
 
 See `complete` branch for answers.
